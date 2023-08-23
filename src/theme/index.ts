@@ -55,7 +55,7 @@ const theme = createTheme({
                         background: theme.palette.grey[900]
                     },
                     "&:active": {
-                        background: theme.palette.primary.main
+                        background: theme.palette.secondary.main
                     },
                     "&.Mui-disabled": {
                         backgroundColor: "#1D1D1F0A",
